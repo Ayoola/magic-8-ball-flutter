@@ -2,7 +2,7 @@
 
 Ask whatever question, and the all knowing Magic 8 Ball shall answer at the click of a button.
 
-<img src="magic8ballscreenshot.jpg" width="350">
+<img src="magic8ballscreenshot.jpeg" width="350">
 
 ## What I learned from this project
 
